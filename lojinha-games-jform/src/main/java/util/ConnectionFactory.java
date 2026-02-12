@@ -7,7 +7,7 @@ public class ConnectionFactory {
 
     private static final String URL  = "jdbc:mysql://localhost:3306/lojinha_games";
     private static final String USER = "root";
-    private static final String PASS = "admin"; // troque aqui
+    private static final String PASS = "root"; 
 
     public static Connection getConnection() {
         try {
