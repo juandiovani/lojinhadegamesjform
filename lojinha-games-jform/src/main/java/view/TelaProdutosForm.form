@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Form version="1.6" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignGroupLayout"/>
+
+  <SubComponents>
+    <Component class="javax.swing.JPanel" name="painelTopo"/>
+    <Component class="javax.swing.JPanel" name="painelForm"/>
+    <Component class="javax.swing.JPanel" name="painelBotoes"/>
+    <Component class="javax.swing.JPanel" name="painelTabela"/>
+    <Component class="javax.swing.JPanel" name="painelPreview"/>
+    <Component class="javax.swing.JLabel" name="lblTitulo"/>
+    <Component class="javax.swing.JLabel" name="lblSubtitulo"/>
+    <Component class="javax.swing.JLabel" name="lblCapa"/>
+    <Component class="javax.swing.JTable" name="tabela"/>
+    <Component class="javax.swing.JTextField" name="txtTitulo"/>
+    <Component class="javax.swing.JTextField" name="txtPlataforma"/>
+    <Component class="javax.swing.JTextField" name="txtPreco"/>
+    <Component class="javax.swing.JTextField" name="txtImagem"/>
+    <Component class="javax.swing.JButton" name="btnNovo"/>
+    <Component class="javax.swing.JButton" name="btnSalvar"/>
+    <Component class="javax.swing.JButton" name="btnExcluir"/>
+    <Component class="javax.swing.JButton" name="btnEscolherImagem"/>
+    <Component class="javax.swing.JScrollPane" name="jScrollPane1"/>
+    <Component class="javax.swing.JLabel" name="jLabel1"/>
+    <Component class="javax.swing.JLabel" name="jLabel2"/>
+    <Component class="javax.swing.JLabel" name="jLabel3"/>
+    <Component class="javax.swing.JLabel" name="jLabel4"/>
+  </SubComponents>
+</Form>
